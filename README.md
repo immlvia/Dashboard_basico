@@ -1,6 +1,6 @@
 # Dashboard Básico 📊
 
-Dashboard desenvolvido no **Power BI** para visualização e análise de dados de faturamento.
+Dashboard desenvolvido no **Power BI** para visualização e análise de dados.
 
 ## 📊 Conteúdo
 O dashboard apresenta:
